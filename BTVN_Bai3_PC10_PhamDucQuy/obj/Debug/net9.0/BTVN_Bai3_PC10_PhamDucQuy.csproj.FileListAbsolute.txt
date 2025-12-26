@@ -1,0 +1,14 @@
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\bin\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.exe
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\bin\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.deps.json
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\bin\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.runtimeconfig.json
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\bin\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.dll
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\bin\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.pdb
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.AssemblyInfoInputs.cache
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.AssemblyInfo.cs
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.csproj.CoreCompileInputs.cache
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.dll
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\refint\BTVN_Bai3_PC10_PhamDucQuy.dll
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.pdb
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\BTVN_Bai3_PC10_PhamDucQuy.genruntimeconfig.cache
+D:\Module 1_ C# cơ bản\Bài 1\BTVN_Bai3_PC10_PhamDucQuy\obj\Debug\net9.0\ref\BTVN_Bai3_PC10_PhamDucQuy.dll
