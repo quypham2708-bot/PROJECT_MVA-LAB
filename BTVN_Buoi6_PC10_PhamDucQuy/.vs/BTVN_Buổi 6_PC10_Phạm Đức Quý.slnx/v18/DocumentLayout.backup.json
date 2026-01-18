@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\PROJECT\\BTVN_Bu\u1ED5i 6_PC10_Ph\u1EA1m \u0110\u1EE9c Qu\u00FD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EF31483-D339-4AD1-B004-DE0452E334FE}|BTVN_Bu\u1ED5i 6_PC10_Ph\u1EA1m \u0110\u1EE9c Qu\u00FD.csproj|d:\\project\\project\\btvn_bu\u1ED5i 6_pc10_ph\u1EA1m \u0111\u1EE9c qu\u00FD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EF31483-D339-4AD1-B004-DE0452E334FE}|BTVN_Bu\u1ED5i 6_PC10_Ph\u1EA1m \u0110\u1EE9c Qu\u00FD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECT\\PROJECT\\BTVN_Bu\u1ED5i 6_PC10_Ph\u1EA1m \u0110\u1EE9c Qu\u00FD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJECT\\PROJECT\\BTVN_Bu\u1ED5i 6_PC10_Ph\u1EA1m \u0110\u1EE9c Qu\u00FD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T13:20:40.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

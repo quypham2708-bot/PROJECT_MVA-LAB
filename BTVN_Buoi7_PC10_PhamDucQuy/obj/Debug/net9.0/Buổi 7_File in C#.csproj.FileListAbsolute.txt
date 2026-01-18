@@ -1,0 +1,30 @@
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Buổi 7_File in C#.exe
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Buổi 7_File in C#.deps.json
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Buổi 7_File in C#.runtimeconfig.json
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Buổi 7_File in C#.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Buổi 7_File in C#.pdb
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.AssemblyInfoInputs.cache
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.AssemblyInfo.cs
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.csproj.CoreCompileInputs.cache
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\refint\Buổi 7_File in C#.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.pdb
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.genruntimeconfig.cache
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\ref\Buổi 7_File in C#.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\EPPlus.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\EPPlus.Interfaces.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\System.Security.Cryptography.Xml.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\bin\Debug\net9.0\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Buổi 7_File in C#.csproj.AssemblyReference.cache
+D:\PROJECT\PROJECT\Buổi 7_File in C#\obj\Debug\net9.0\Bu_i 7_F.ABA6968A.Up2Date

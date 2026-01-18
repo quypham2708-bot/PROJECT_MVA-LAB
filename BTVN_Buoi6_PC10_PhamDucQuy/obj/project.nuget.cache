@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBGkiCBoAig=",
+  "success": true,
+  "projectFilePath": "D:\\PROJECT\\PROJECT\\BTVN_Buổi 6_PC10_Phạm Đức Quý\\BTVN_Buổi 6_PC10_Phạm Đức Quý.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.12\\microsoft.dotnet.ilcompiler.9.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.12\\microsoft.net.illink.tasks.9.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.12\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
