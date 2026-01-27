@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECT\\PROJECT\\BTVN_TongHop_PC10_PhamDucQuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510B61CB-2520-4A16-9512-D73211DF9E06}|BTVN_TongHop_PC10_PhamDucQuy.csproj|d:\\project\\project\\btvn_tonghop_pc10_phamducquy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510B61CB-2520-4A16-9512-D73211DF9E06}|BTVN_TongHop_PC10_PhamDucQuy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\.nuget\\packages\\epplus\\8.4.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\.nuget\\packages\\epplus\\8.4.1\\readme.txt",
+              "ToolTip": "C:\\Users\\Admin\\.nuget\\packages\\epplus\\8.4.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-27T20:18:50.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECT\\PROJECT\\BTVN_TongHop_PC10_PhamDucQuy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PROJECT\\PROJECT\\BTVN_TongHop_PC10_PhamDucQuy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAowGQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:17:31.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\bin\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.exe
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\bin\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.deps.json
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\bin\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.runtimeconfig.json
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\bin\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.dll
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\bin\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.pdb
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.AssemblyInfoInputs.cache
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.AssemblyInfo.cs
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.csproj.CoreCompileInputs.cache
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.sourcelink.json
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.dll
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\refint\BTVN_Buoi8_PC10_PhamDucQuy.dll
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.pdb
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\BTVN_Buoi8_PC10_PhamDucQuy.genruntimeconfig.cache
+D:\PROJECT\Bài tập MVA_LAB\BTVN_Buoi8_PC10_PhamDucQuy\obj\Release\net9.0\ref\BTVN_Buoi8_PC10_PhamDucQuy.dll

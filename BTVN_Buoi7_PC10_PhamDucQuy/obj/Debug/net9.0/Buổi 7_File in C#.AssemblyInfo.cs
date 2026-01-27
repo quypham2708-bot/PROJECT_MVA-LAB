@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Buổi 7_File in C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2f58f49843f42e80e1cf232812d2d3ee73b1bfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Buổi 7_File in C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Buổi 7_File in C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

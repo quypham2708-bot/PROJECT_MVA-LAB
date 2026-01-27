@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "052yFEafNIs=",
+  "dgSpecHash": "ZJa9ag2Kp7A=",
   "success": true,
-  "projectFilePath": "D:\\PROJECT\\PROJECT\\Buổi 7_File in C#\\Buổi 7_File in C#.csproj",
+  "projectFilePath": "D:\\PROJECT\\Bài tập MVA_LAB\\BTVN_Buoi7_PC10_PhamDucQuy\\Buổi 7_File in C#.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\epplus\\8.4.1\\epplus.8.4.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\epplus.interfaces\\8.4.0\\epplus.interfaces.8.4.0.nupkg.sha512",

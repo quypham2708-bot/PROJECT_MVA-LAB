@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ne7W+13CdOo=",
+  "success": true,
+  "projectFilePath": "D:\\PROJECT\\PROJECT\\BTVN_TongHop_PC10_PhamDucQuy\\BTVN_TongHop_PC10_PhamDucQuy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\epplus\\8.4.1\\epplus.8.4.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\epplus.interfaces\\8.4.0\\epplus.interfaces.8.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\9.0.12\\microsoft.dotnet.ilcompiler.9.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.3\\microsoft.extensions.configuration.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.3\\microsoft.extensions.configuration.fileextensions.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.3\\microsoft.extensions.configuration.json.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.3\\microsoft.extensions.fileproviders.abstractions.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.3\\microsoft.extensions.fileproviders.physical.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.3\\microsoft.extensions.filesystemglobbing.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.12\\microsoft.net.illink.tasks.9.0.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.3\\system.security.cryptography.pkcs.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.cryptography.xml\\9.0.3\\system.security.cryptography.xml.9.0.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\9.0.12\\runtime.win-x64.microsoft.dotnet.ilcompiler.9.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

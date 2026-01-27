@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROJECT\\PROJECT\\Bu\u1ED5i 7_File in C#\\",
+  "WorkspaceRootPath": "D:\\PROJECT\\B\u00E0i t\u1EADp MVA_LAB\\BTVN_Buoi7_PC10_PhamDucQuy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1140DC35-6A08-141D-298A-14EA70120BF3}|Bu\u1ED5i 7_File in C#.csproj|d:\\project\\project\\bu\u1ED5i 7_file in c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1140DC35-6A08-141D-298A-14EA70120BF3}|Bu\u1ED5i 7_File in C#.csproj|d:\\project\\b\u00E0i t\u1EADp mva_lab\\btvn_buoi7_pc10_phamducquy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1140DC35-6A08-141D-298A-14EA70120BF3}|Bu\u1ED5i 7_File in C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PROJECT\\PROJECT\\Bu\u1ED5i 7_File in C#\\Program.cs",
+              "DocumentMoniker": "D:\\PROJECT\\B\u00E0i t\u1EADp MVA_LAB\\BTVN_Buoi7_PC10_PhamDucQuy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\PROJECT\\PROJECT\\Bu\u1ED5i 7_File in C#\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAowDkAAABWAAAAAAAAAA==",
+              "ToolTip": "D:\\PROJECT\\B\u00E0i t\u1EADp MVA_LAB\\BTVN_Buoi7_PC10_PhamDucQuy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwDIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-16T16:42:42.697Z",
               "EditorCaption": ""
